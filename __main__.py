@@ -103,7 +103,7 @@ def window_closed():
 #User_Data
 
 
-Username = "Rithvik"
+Username = "Ganesh"
 Greeting = f"  Welcome back, Sorcerer {Username}!"
 days_left = 48
 QOTD = "If you wish to shine like the sun itself, then BURN \n like it"
